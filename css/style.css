@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@import "normalize.css";
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.slides {
+  max-width: 640px;
+
+  margin: 0 auto;
+}
+.slides img {
+  width: 100%;
+}
